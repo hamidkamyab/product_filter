@@ -1,6 +1,7 @@
 import * as Vsc from "react-icons/vsc";
 import Tabs from "./Tabs";
 import Products from "./Products";
+import data from './data'
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <div className="main container py-5 d-flex flex-column align-items-center gap-3">
           <h4 className="title position-relative m-0 p-0 pb-2">محصولات ما</h4>
           <Tabs/>
-          <Products />
+          <Products products={data} />
       </div>
 
       <div className="footer text-center py-3">
