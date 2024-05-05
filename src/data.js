@@ -29,7 +29,7 @@
     },
     {
         id: 4,
-        category: 'لب تاپ',
+        category: 'لپ تاپ',
         title: 'لپ تاپ 13.3 اینچی اپل مدل MacBook Air MGN63 2020-M1 8GB 256SSD',
         description: 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است',
         img: 'https://dkstatics-public.digikala.com/digikala-products/b2c0eb53f0eeacdefb8771155bf5e4887222a654_1688388473.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90',
@@ -74,7 +74,7 @@
     },
     {
         id: 9,
-        category: 'لب تاپ',
+        category: 'لپ تاپ',
         title: 'لپ تاپ 15.6 اینچی ایسوس مدل E510MA-EJ614-Celeron 4GB 256SSD',
         description: 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است',
         img: 'https://dkstatics-public.digikala.com/digikala-products/9880beeb1cd8d88e204f2fe7953fe277de7f171c_1700479892.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90',
@@ -83,7 +83,7 @@
     },
     {
         id: 10,
-        category: 'لب تاپ',
+        category: 'لپ تاپ',
         title: 'لپ تاپ 15.6 اینچی لنوو مدل IdeaPad 3 15ITL6-i7 1165G7 16GB 256SSD 1HDD - کاستوم شده',
         description: 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است',
         img: 'https://dkstatics-public.digikala.com/digikala-products/c9e03bcb3e39a22a9c79582dd8f604692f7bcc52_1705486496.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90',
@@ -92,7 +92,7 @@
     },
     {
         id: 11,
-        category: 'لب تاپ',
+        category: 'لپ تاپ',
         title: 'لپ تاپ 15.6 اینچی ایسوس مدل Vivobook X1504ZA-NJ247-i7 1255U 8GB 512SSD',
         description: 'لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است',
         img: 'https://dkstatics-public.digikala.com/digikala-products/c9e03bcb3e39a22a9c79582dd8f604692f7bcc52_1705486496.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90',
